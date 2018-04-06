@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../week3/Adaboost/.idea/Adaboost.iml" filepath="$PROJECT_DIR$/../../week3/Adaboost/.idea/Adaboost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../week3/RandomForest/.idea/RandomForest.iml" filepath="$PROJECT_DIR$/../../week3/RandomForest/.idea/RandomForest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Regression/.idea/Regression.iml" filepath="$PROJECT_DIR$/../Regression/.idea/Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../week2/SVM/.idea/SVM.iml" filepath="$PROJECT_DIR$/../../week2/SVM/.idea/SVM.iml" />
+      <module fileurl="file://D:/Python Projects/TensorflowModels/.idea/TensorflowModels.iml" filepath="D:/Python Projects/TensorflowModels/.idea/TensorflowModels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../numpy/.idea/numpy.iml" filepath="$PROJECT_DIR$/../../numpy/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sickitlearn/.idea/sickitlearn.iml" filepath="$PROJECT_DIR$/../../sickitlearn/.idea/sickitlearn.iml" />
+      <module fileurl="file://D:/Python Projects/tensorflow/.idea/tensorflow.iml" filepath="D:/Python Projects/tensorflow/.idea/tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
